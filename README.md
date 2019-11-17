@@ -1,4 +1,4 @@
-usage: crawler.py [-h] [-v] [-m MAX] [-l LIST] [-d DB] [-f] [-u USER_AGENT]
+'''usage: crawler.py [-h] [-v] [-m MAX] [-l LIST] [-d DB] [-f] [-u USER_AGENT]
 
 Gather stats about a list of URLs
 
@@ -12,4 +12,4 @@ optional arguments:
   -f, --follow          Follow redirects (creates secondary db with all
                         redirections performed)
   -u USER_AGENT, --user_agent USER_AGENT
-                        User agent string (use 'random' to randomise)
+                        User agent string (use 'random' to randomise)'''
